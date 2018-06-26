@@ -1,0 +1,2 @@
+# Ephemeris-Examples
+These examples were found [here](http://www.th-mack.de/international/download/) on the site of Thomas Mack. All credits for them go to the original author, I did nothing more than compile them on my computer. All the files needed for successful compilation are included and each example has a ReadMe file. 

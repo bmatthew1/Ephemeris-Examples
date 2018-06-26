@@ -1,0 +1,2 @@
+Main-Class: Tithis
+Class-Path: libs\swisseph-2.01.00-01.jar

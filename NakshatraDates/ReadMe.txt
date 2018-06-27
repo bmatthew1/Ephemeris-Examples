@@ -14,4 +14,4 @@ jar -tf NakshatraDates.jar
 
 java -jar NakshatraDates.jar
 
-javadoc -link https://docs.oracle.com/javase/8/docs/api/ -cp libs\*;.; -d docs *.java
+javadoc -encoding utf8 -link https://docs.oracle.com/javase/8/docs/api/ -cp libs\*;.; -d docs *.java

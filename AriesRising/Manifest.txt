@@ -1,2 +1,2 @@
 Main-Class: AriesRising
-Class-Path: libs/swisseph-2.01.00-01.jar
+Class-Path: libs\swisseph-2.01.00-01.jar
